@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Faith Wairimu | Data Analyst & ML Enthusiast"
 title_separator          : "-"
 name                     : &name "Faith Wairimu"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "https://t4.ftcdn.net/jpg/15/60/67/25/360_F_1560672576_AXWum7fhevX9VZGl2gbkRPo4vX2LXvCu.jpg"
   name             : "Faith Wairimu"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist passionate about Machine Learning, Robotics Education, and Data Storytelling."
@@ -38,14 +38,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  
+ 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
